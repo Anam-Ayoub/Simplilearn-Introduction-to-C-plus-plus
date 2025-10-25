@@ -8,4 +8,6 @@ int main(){
         cout<<"x = "<<x<<endl;
         x = x - 1;
     }
+
+    return 0;
 }
