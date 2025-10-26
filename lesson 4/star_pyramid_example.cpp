@@ -9,7 +9,7 @@ int main(){
     cin>>n;
 
     for (int i = 1 ; i <= n*2 ; i+=2){
-        for (int k = n-1 ; k>=(i/2)+1 ; k--){
+        for (int k = n-1 ; k>(i/2) ; k--){
             cout<<" ";
         }
         for (int j = 1 ; j <= i ; j++){
