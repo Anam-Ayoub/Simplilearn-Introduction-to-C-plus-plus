@@ -17,7 +17,7 @@ int main(){
     cout<<"Shall we begin?"<<endl;
     cout<<"....pro.ces..sin..g..."<<endl;
     int result = multiplicator(n1,n2);
-    cout<<"Ladies and Gentlmen!"<<endl;
+    cout<<"Ladies and Gentelmen!"<<endl;
     cout<<n1<<" x "<<n2<<" = "<<result;
     return 0;
     
