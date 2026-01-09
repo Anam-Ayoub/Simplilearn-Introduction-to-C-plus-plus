@@ -20,5 +20,11 @@ int main(){
     cout<<"Hahoma tzado bwa7d:"<<endl;
     cout<<n1<<endl;
     cout<<n2<<endl;
+
+    sum = *ptr1 + *ptr2;
+    sub = *ptr1 - *ptr2;
+
+    cout<<*ptr1<<" + "<<*ptr2<<" = "<<sum<<endl;
+    cout<<*ptr1<<" - "<<*ptr2<<" = "<<sub<<endl;
     return 0;
 }
